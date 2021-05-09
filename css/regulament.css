@@ -1,0 +1,32 @@
+.master_title {
+	width: 1190px;
+	margin: 0 auto;
+}
+
+.page_title {
+	font-size: 30px;
+	font-weight: 400;
+	display: block;
+	margin: 30px 0 30px 0;
+}
+
+.page_title img {
+	display: block;
+	margin-top: 10px;
+	width: 374px;
+	height: 5px;
+}
+
+.content a {
+	color: #004B28;
+	font-weight: 300;
+}
+
+.content a:hover {
+	color: #007D43;
+}
+
+.content img {
+	width: 50%;
+	display: block;
+}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="363" height="4" viewBox="0 0 363 4">
+  <g id="line_green" fill="#fff">
+    <path d="M 361.5 2.5 L 1.5 2.5 L 1.5 1.5 L 361.5 1.5 L 361.5 2.5 Z" stroke="none"/>
+    <path d="M 0 0 L 363 0 L 363 4 L 0 4 L 0 0 Z" stroke="none" fill="#005a30"/>
+  </g>
+</svg>

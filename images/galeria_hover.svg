@@ -1,0 +1,13 @@
+<svg id="galeria_hover" xmlns="http://www.w3.org/2000/svg" width="230" height="230" viewBox="0 0 230 230">
+  <g id="Component_1_31" data-name="Component 1 – 31">
+    <g id="Group_12" data-name="Group 12">
+      <g id="Rectangle_5" data-name="Rectangle 5" fill="none" stroke="#004b28" stroke-width="5">
+        <rect width="230" height="230" stroke="none"/>
+        <rect x="2.5" y="2.5" width="225" height="225" fill="none"/>
+      </g>
+    </g>
+    <text id="Text" transform="translate(20 115)" fill="#004b28" font-size="21" font-family="SegoeUI, Segoe UI" opacity="0"><tspan x="0" y="23">Text</tspan></text>
+    <text id="Galeria" transform="translate(115.5 124.5)" fill="#004b28" stroke="#004b28" stroke-width="0.5" font-size="25" font-family="SFProDisplay-Regular, SF Pro Display"><tspan x="-36.737" y="0">Galeria</tspan></text>
+  </g>
+  <path id="Path_8" data-name="Path 8" d="M29.132,29.132H0V24.009H24.009V0h5.123Z" transform="translate(190.87 190.868)" fill="#004b28"/>
+</svg>

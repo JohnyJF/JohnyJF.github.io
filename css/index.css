@@ -1,0 +1,35 @@
+.wrapper table{
+	width: 1210px;
+	margin: 0 auto;
+	border-collapse: collapse;
+	margin-bottom: 40px;
+	margin-top: 10px;
+}
+
+.wrapper table tr td{
+	height: 230px;
+	width: 230px;
+	border: 10px solid white;
+}
+
+.wrapper table tr td img{
+	vertical-align: middle;
+}
+
+.bonus img{
+	margin: 0 auto;
+	display: block;
+	padding-bottom: 260px;
+}
+
+.card img:last-child{
+	display: none;
+}
+
+.card:hover img:first-child{
+	display: none;
+}
+
+.card:hover img:last-child{
+	display: inline-block;
+}
