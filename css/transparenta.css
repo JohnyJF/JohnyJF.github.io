@@ -22,6 +22,15 @@
 }
 
 .content img {
-	width: 50%;
+	width: 100%;
 	display: block;
+}
+
+section img {
+	margin-top: 30px;
+}
+
+.division {
+	width: 580px;
+	display: inline-block;
 }
