@@ -3,8 +3,8 @@
     <g id="Group_12" data-name="Group 12">
       <path id="Path_75" data-name="Path 75" d="M0,0H230V160l-70,70H0Z" fill="#004b28"/>
     </g>
-    <text id="Text" transform="translate(20 115)" fill="#004b28" font-size="21" font-family="SegoeUI, Segoe UI" opacity="0"><tspan x="0" y="23">Text</tspan></text>
-    <text id="Galeria" transform="translate(115 124)" fill="#fff" font-size="25" font-family="SFProDisplay-Regular, SF Pro Display"><tspan x="-36.737" y="0">Galeria</tspan></text>
+    <text id="Text" transform="translate(20 115)" fill="#004b28" font-size="21" font-family="SF Pro Display" opacity="0"><tspan x="0" y="23">Text</tspan></text>
+    <text id="Galeria" transform="translate(115 124)" fill="#fff" font-size="25" font-family="SF Pro Display"><tspan x="-36.737" y="0">Galeria</tspan></text>
   </g>
   <path id="Path_8" data-name="Path 8" d="M29.132,29.132H0V24.009H24.009V0h5.123Z" transform="translate(190.87 190.868)" fill="#004b28"/>
 </svg>

@@ -3,7 +3,11 @@
 	padding: 0;
 	list-style: none;
 	text-decoration: none;
-	font-family: SF Pro Display;
+	font-family: SF Pro Display, sans-serif;
+}
+
+svg{
+	font-family: SF Pro Display, sans-serif;
 }
 
 .inner_header li::selection {
