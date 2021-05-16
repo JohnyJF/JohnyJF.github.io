@@ -56,7 +56,7 @@
     font-family: 'SF Pro Display';
     src: url('../Fonts/SFProDisplay-Light.woff2') format('woff2'),
         url('../Fonts/SFProDisplay-Light.woff') format('woff');
-    font-weight: 200;
+    font-weight: 300;
     font-style: normal;
     font-display: swap;
 }
@@ -65,7 +65,7 @@
     font-family: 'SF Pro Display';
     src: url('../Fonts/SFProDisplay-LightItalic.woff2') format('woff2'),
         url('../Fonts/SFProDisplay-LightItalic.woff') format('woff');
-    font-weight: 200;
+    font-weight: 300;
     font-style: italic;
     font-display: swap;
 }
@@ -128,7 +128,7 @@
     font-family: 'SF Pro Display';
     src: url('../Fonts/SFProDisplay-Thin.woff2') format('woff2'),
         url('../Fonts/SFProDisplay-Thin.woff') format('woff');
-    font-weight: 300;
+    font-weight: 200;
     font-style: normal;
     font-display: swap;
 }
@@ -137,7 +137,7 @@
     font-family: 'SF Pro Display';
     src: url('../Fonts/SFProDisplay-ThinItalic.woff2') format('woff2'),
         url('../Fonts/SFProDisplay-ThinItalic.woff') format('woff');
-    font-weight: 300;
+    font-weight: 200;
     font-style: italic;
     font-display: swap;
 }

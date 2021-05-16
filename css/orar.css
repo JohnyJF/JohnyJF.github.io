@@ -38,6 +38,6 @@
 .vertical {
 	writing-mode:sideways-lr;
     text-orientation: upright;
-    padding-left: 8px;
-    font-weight: 400;
+    padding-left: 12px;
+    font-weight: 700;
 }
