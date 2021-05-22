@@ -4,6 +4,7 @@
 	list-style: none;
 	text-decoration: none;
 	font-family: SF Pro Display, sans-serif;
+	font-weight: 300;
 }
 
 svg{
@@ -90,6 +91,7 @@ svg{
 	height: 100%;
 	color: white;
 	font-size: 19px;
+	font-weight: 400;
 }
 
 .header_button{
@@ -136,7 +138,6 @@ svg{
 	padding-right: 40px;
 	color: white;
 	font-size: 21px;
-	font-weight: 200;
 	margin: 20px 0px 0px 0px;
 	display: block;
 	float: left;
@@ -147,7 +148,7 @@ svg{
 }
 
 .deep span{
-	font-weight: 300;
+	font-weight: 400;
 }
 
 .media{
@@ -160,7 +161,6 @@ svg{
 .media p{
 	color: white;
 	font-size: 22px;
-	font-weight: 300; 
 }
 
 .media span img{
@@ -189,7 +189,6 @@ svg{
 	text-align: right;
 	color: white;
 	font-size: 21px;
-	font-weight: 200;
 	float: right;
 	display: block;
 }
@@ -216,7 +215,6 @@ svg{
 .footer_bottom a{
 	color: #C5C6D0;
 	font-size: 14px;
-	font-weight: 200;
 }
 
 #page-container {
@@ -240,7 +238,7 @@ svg{
 
 .general_text {
     font-size: 20px;
-    font-weight: 200;
+    font-weight: 300;
 }
 
 .general_title {
