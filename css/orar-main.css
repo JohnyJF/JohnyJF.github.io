@@ -1,0 +1,28 @@
+.general_tabel_news {
+	text-align: left;
+	color: #004B28;
+}
+
+.orar_clase div a {
+	color: #004B28;
+}
+
+.orar_clase div a:hover {
+	color: #007D43;
+}
+
+.orar_clase div a{
+	font-size: 250px;
+	font-weight: 600;
+	vertical-align: top;
+}
+
+.orar_clase div {
+	display: inline-block; 
+	margin-right: 72px;
+}
+
+.orar_clase div:last-child {
+	display: inline-block; 
+	margin-right: 0px;
+}
